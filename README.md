@@ -1,3 +1,4 @@
-# Basic_Ruby_Projects
+# Ruby Set Up 
+This repository has all necessary setup for ruby projects
 
-4 Projects (from The Odin Project) that are to be used to solidify my introduction to ruby
+Simply fork and use :)
